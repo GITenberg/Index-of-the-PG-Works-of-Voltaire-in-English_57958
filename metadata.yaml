@@ -1,0 +1,31 @@
+_repo: Index-of-the-PG-Works-of-Voltaire-in-English_57958
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+creator:
+  author:
+    agent_name: François-Marie Arouet (AKA Voltaire)
+    gutenberg_agent_id: '49706'
+    url: http://www.gutenberg.org/2009/agents/49706
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the PG Works of Voltaire in English
+url: http://www.gutenberg.org/ebooks/57958
